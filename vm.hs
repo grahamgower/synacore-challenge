@@ -1,4 +1,4 @@
-{- An inmplementation of the https://challenge.synacor.com/ virtual machine -}
+{- An implementation of the https://challenge.synacor.com/ virtual machine -}
 import Data.Bits
 import Data.Char
 import Data.Word
